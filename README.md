@@ -1,0 +1,2 @@
+# TinyPT
+At (SEB)[berkeleyse.org], we often want to read PTs one-off during testing. The TinyPT board provides a dead simple interface for this. It solders directly to a PT tail and reads out data over a USB interface. It employs an Attiny45 microcontroller to do this.
